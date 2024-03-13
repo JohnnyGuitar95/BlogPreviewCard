@@ -1,0 +1,23 @@
+@media screen and (max-width: 500px ) {
+
+    section {
+        width: 327px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 12px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    button {
+        font-size: 12px;
+    }
+
+
+}
